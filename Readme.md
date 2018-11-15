@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication3/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication3/Form1.vb))
+* [InplaceDataNavigator.cs](./CS/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigator.cs) (VB: [InplaceDataNavigatorPainter.vb](./VB/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigatorPainter.vb))
+* [InplaceDataNavigatorHelper.cs](./CS/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigatorHelper.cs) (VB: [InplaceDataNavigatorHelper.vb](./VB/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigatorHelper.vb))
+* [InplaceDataNavigatorPainter.cs](./CS/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigatorPainter.cs) (VB: [InplaceDataNavigatorPainter.vb](./VB/WindowsFormsApplication3/InplaceDataNavigator/InplaceDataNavigatorPainter.vb))
+* [MyDataNavigator.cs](./CS/WindowsFormsApplication3/InplaceDataNavigator/MyDataNavigator.cs) (VB: [MyDataNavigator.vb](./VB/WindowsFormsApplication3/InplaceDataNavigator/MyDataNavigator.vb))
+* [RepositoryItemInplaceDataNavigator.cs](./CS/WindowsFormsApplication3/InplaceDataNavigator/RepositoryItemInplaceDataNavigator.cs) (VB: [RepositoryItemInplaceDataNavigator.vb](./VB/WindowsFormsApplication3/InplaceDataNavigator/RepositoryItemInplaceDataNavigator.vb))
+* [Program.cs](./CS/WindowsFormsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication3/Program.vb))
+<!-- default file list end -->
 # How to place DataNavigator on XtraBars toolbars
 
 
